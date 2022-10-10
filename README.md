@@ -1,7 +1,7 @@
 # tcs_api_reports
 Examples of getting reports from different components of Tenable.cs using the API. 
 
-* cspm_report.py generates a report for each project configured in Tenbale.cs
+* cspm_report.py generates a report for each project configured in Tenable.cs
 * consec_summary_report.py generates a report for each container image in Tenable.cs
 
 ## Prerequisites
