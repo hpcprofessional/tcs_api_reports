@@ -3,6 +3,7 @@ Examples of getting reports from different components of Tenable.cs using the AP
 
 * cspm_report.py generates a report for each project configured in Tenable.cs
 * consec_summary_report.py generates a report summarizing each container image in Tenable.cs
+* onboarded_accounts.py generates a list of all onboarded cloud accounts
 
 ## Prerequisites
 
